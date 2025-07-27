@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **miniShell**
 
-- 🌱 I’m currently learning **C++ and following the Boot.dev backend engineer path**
+- 🌱 I’m currently learning **C, C++ and following the Boot.dev backend engineer path**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
